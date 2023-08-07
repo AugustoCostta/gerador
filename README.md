@@ -1,2 +1,2 @@
 # gerador
- Gerador de senhas com html, css e javaScript
+ Gerador de senhas com HTML, CSS e JavaScript
